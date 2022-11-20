@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
-[Project demo]()
-[Live Demo]
+[Project demo](https://github.com/bhanu011/SortingVisualizer/blob/master/image/gif.gif)
+[Live Demo]()
 ---
 
 ## Description
