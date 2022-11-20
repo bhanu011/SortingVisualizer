@@ -1,6 +1,7 @@
 # Sorting Visualizer
 
-
+[Project demo]()
+[Live Demo]
 ---
 
 ## Description
